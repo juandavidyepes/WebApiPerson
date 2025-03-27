@@ -5,7 +5,7 @@ namespace WebApiPerson.Context
 {
     public class AppDbContext: DbContext
     {
-        //Constructor
+        //Constructor test
         public AppDbContext(DbContextOptions<AppDbContext> options): base(options)
         {
             
